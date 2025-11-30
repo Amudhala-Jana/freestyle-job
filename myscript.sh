@@ -13,3 +13,4 @@ echo $count > count.txt
 echo "Jenkins job run count: $count"
 echo "Run timestamp: $(date)"
 echo "updating"
+echo "edited"
